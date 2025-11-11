@@ -9,8 +9,8 @@
 /* ======= Base ======= */
 body {
   font-family: 'Lato', arial, sans-serif;
-  color: #434343;
-  background: #DAE3E7;
+  color: #373737;
+  background: #cfc5b1;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -126,6 +126,7 @@ iframe {
 }
 .header .profile-image {
   margin-right: 30px;
+  width: 150px;
 }
 .header .profile-content .name {
   color: #49515a;
